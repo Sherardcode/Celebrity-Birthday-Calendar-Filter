@@ -74,3 +74,56 @@ While the original industrial software operated on production data, this applica
 - Charts and Visualizations
 - External Data Sources
 - Birthday Statistics Dashboard
+
+
+## Sample Code 
+
+private void button1_Click(object sender, EventArgs e)
+{
+
+
+    dataGridView1.Rows.Clear();
+    dataGridView2.Rows.Clear();
+
+    int totalAge = 0;
+    foreach (var person in people)
+
+    {
+        DateTime normalizedBirthday = new DateTime(
+        2000,
+        person.Birthday.Month,
+        person.Birthday.Day);
+        if (startDate <= normalizedBirthday && endDate >= normalizedBirthday)
+        {
+            dataGridView1.Rows.Add(
+                person.Name,
+                person.Birthday.ToShortDateString()
+                );
+
+
+            int age = DateTime.Now.Year - person.Birthday.Year;
+            if (person.Birthday.Date > DateTime.Today.Date)
+            {
+                age--;
+            }
+
+            totalAge += age;
+
+
+
+            dataGridView2.Rows.Add(
+                person.Name,
+                age
+
+
+                );
+
+            label5.Text = $"Years combined = {totalAge.ToString()}";
+        }
+    }
+}
+
+
+
+
+The code above deal with logic filter records based on the user-selected start and end dates and dynamically updates the results grid.
