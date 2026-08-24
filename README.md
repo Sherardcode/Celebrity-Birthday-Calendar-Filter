@@ -32,19 +32,21 @@ This project was inspired by filtering and reporting concepts explored during my
 While the original industrial software operated on production data, this application recreates similar user-driven filtering and reporting workflows using publicly available sample data.
 
 ### Main Interface
-<img width="1837" height="1063" alt="Screenshot 2026-08-24 154209" src="https://github.com/user-attachments/assets/7b5e919c-ed89-4e41-95a9-ce0973cca582" />
 
+<img width="1316" height="815" alt="image" src="https://github.com/user-attachments/assets/70d19a25-93de-47d0-9138-6bc264bff778" />
 
 
 
 ### Filtered Results
+<img width="1117" height="547" alt="image" src="https://github.com/user-attachments/assets/40f14caa-1bda-4f98-986b-e96ce98e588b" />
 
-<img width="1163" height="550" alt="Screenshot 2026-08-24 154415" src="https://github.com/user-attachments/assets/62af243a-586f-4487-91fc-358bcf6bce94" />
+
 
 
 ### Age Summary
 
-<img width="1314" height="815" alt="image" src="https://github.com/user-attachments/assets/79b36070-f474-498a-af9a-3a513244c0d3" />
+<img width="1313" height="816" alt="image" src="https://github.com/user-attachments/assets/f87f6ea0-1a8d-4aab-a877-4cef9a80775c" />
+
 
 
 ## Example Workflow
