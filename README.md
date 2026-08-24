@@ -38,15 +38,16 @@ While the original industrial software operated on production data, this applica
 
 
 ### Filtered Results
-<img width="1117" height="547" alt="image" src="https://github.com/user-attachments/assets/40f14caa-1bda-4f98-986b-e96ce98e588b" />
+<img width="1117" height="547" alt="Screenshot 2026-08-24 161218" src="https://github.com/user-attachments/assets/fb194017-4c83-44b8-9564-1d9e2385cf42" />
+
+
 
 
 
 
 ### Age Summary
 
-<img width="1313" height="816" alt="image" src="https://github.com/user-attachments/assets/f87f6ea0-1a8d-4aab-a877-4cef9a80775c" />
-
+<img width="1313" height="816" alt="Screenshot 2026-08-24 161234" src="https://github.com/user-attachments/assets/5ee80b40-d8c7-45a4-8f63-c82491d3a6f5" />
 
 
 ## Example Workflow
