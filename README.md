@@ -33,7 +33,8 @@ While the original industrial software operated on production data, this applica
 
 ### Main Interface
 
-<img width="1316" height="815" alt="image" src="https://github.com/user-attachments/assets/70d19a25-93de-47d0-9138-6bc264bff778" />
+<img width="1310" height="812" alt="image" src="https://github.com/user-attachments/assets/592711d8-4458-4e6b-93df-4ae3fe3b992a" />
+
 
 
 
