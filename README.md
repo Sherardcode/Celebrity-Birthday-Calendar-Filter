@@ -12,10 +12,22 @@ The application recreates key filtering workflows using a portfolio-safe dataset
 - Real-time filtering of records based on user-selected dates
 - Interactive DataGridView reporting
 - Automatic age calculations
+- Aggregated age statistics
+- Secondary reporting dashboard
 - Combined age reporting for filtered results
 - Clear/reset functionality for repeated searches
 - Event-driven WinForms user interface
+- 
+## Dashboard Functionality
 
+The application includes a reporting dashboard that generates
+summary information from filtered results, including:
+
+- Individual age calculations
+- Filter-specific reporting views
+- Aggregate age statistics
+- Dynamic updates based on user-selected date ranges
+- 
 ## Technologies Used
 
 - C#
